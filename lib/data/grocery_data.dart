@@ -1,32 +1,32 @@
 class GroceryData{
   static List<Map<String, dynamic>> groceryProducts=[
     {
-      'id':1,
+      'id':'1',
       'name':'Banana',
       'description': "Fresh bananas ",
        'price':0.89,
-      'imageURL': "https://fruitboxco.com/cdn/shop/products/asset_2_1024x.jpg?v=1571839043"
+      'imageURL': "https://cdn-prod.medicalnewstoday.com/content/images/articles/271/271157/bananas-chopped-up-in-a-bowl.jpg"
     },
     {
-      'id':2,
+      'id':'2',
       'name':'Orange',
       'description': "Fresh oranges ",
        'price':0.89,
-      'imageURL': "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/640px-Oranges_-_whole-halved-segment.jpg"
+      'imageURL': "https://www.healthifyme.com/blog/wp-content/uploads/2020/12/Orange.jpg"
     },
     {
-      'id':3,
+      'id':'3',
       'name':'Grapes',
       'description': "Fresh grapes ",
        'price':0.89,
-      'imageURL': "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/01/grapes-1296x728-header.jpg?w=1155&h=1528"
+      'imageURL': "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXA3qT9nLVzhNqI2aaL9ild0cgdVqoQNfYA&usqp=CAU"
     },
     {
-      'id':4,
+      'id':'4',
       'name':'Bread',
       'description': "Fresh bread ",
        'price':0.89,
-      'imageURL': "https://www.bhg.com/thmb/ov2S31znAvSCXqrpgJQ8rwBgzp8=/2250x0/filters:no_upscale():strip_icc()/BHG-milk-bread-4CdeIL1uKGyB5ryU8J_EED-aaa76729c86a413ca7500029edba79f0.jpg"
+      'imageURL': "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4nsfGSC08WOSD5wVkip2qG4O9IJTZ2-STQ&usqp=CAU"
     }
   ];
 }
